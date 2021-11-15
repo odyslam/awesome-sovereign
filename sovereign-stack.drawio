@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T11:37:56.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="YvilLlh6WIwjh3wqGXxp" version="15.0.6" type="github"><diagram id="qrj2RsEYHnxCMvU44XKw" name="Page-1">ddG9DoMgEADgp2FXiNXO1talk0NnIlcgQc8gjbZPXw1aS2wXAt/d8XMQljfjxfJOXVGAITQSI2EnQmkaRdM4w9NDkiUepNXCU7xBpV+w4FInH1pAHyQ6RON0F2KNbQu1C4xbi0OYdkcTntpxCTuoam72etPCKa8ZTTcvQUu1nhwfjj7S8DV5eUmvuMDhi1hBWG4RnZ81Yw5m7t3aF193/hP9XMxC634UTJNt72kRfBAr3g==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-15T06:01:13.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="QKUSgReKCZxZ0Nzg-H0g" version="15.0.6" type="github">
+  <diagram id="qrj2RsEYHnxCMvU44XKw" name="Page-1">
+    <mxGraphModel dx="1090" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yotDON_448eLQb3-O2F5-28" value="" style="group;container=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="280" width="1050" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-1" value="Hardware layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yotDON_448eLQb3-O2F5-28">
+          <mxGeometry y="240" width="1050" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-2" value="Network Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yotDON_448eLQb3-O2F5-28">
+          <mxGeometry y="120" width="858.0645161290323" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-11" value="Legacy Computing&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yotDON_448eLQb3-O2F5-28">
+          <mxGeometry y="180" width="858.0645161290323" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-5" value="P2P Networking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yotDON_448eLQb3-O2F5-28">
+          <mxGeometry y="60" width="858.06" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-9" value="Communication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yotDON_448eLQb3-O2F5-28">
+          <mxGeometry x="558.06" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-12" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yotDON_448eLQb3-O2F5-28">
+          <mxGeometry x="648.06" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-8" value="Content" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yotDON_448eLQb3-O2F5-28">
+          <mxGeometry x="478.06" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-10" value="P2P Computing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yotDON_448eLQb3-O2F5-28">
+          <mxGeometry x="858.06" y="60" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-7" value="DeFi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169.71898495495995" y="220" width="69.71898495495995" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-15" value="Data Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239.4379699099199" y="220" width="78.43385807432996" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-23" value="DAOs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394.7" y="220" width="46.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-16" value="Community" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316.2703406723129" y="220" width="78.43385807432996" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-6" value="Identity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="69.71898495495995" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-34" value="Value transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30.28" y="220" width="69.71898495495995" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-3" value="Blockchain Settlement&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="280" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yotDON_448eLQb3-O2F5-24" value="Art" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441.57" y="220" width="38.43" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
